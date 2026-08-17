@@ -1,0 +1,16 @@
+area-market/
+├── index.html
+├── login.html
+├── register.html
+├── seller.html
+├── admin.html
+├── cart.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   ├── auth.js
+│   ├── products.js
+│   ├── cart.js
+│   └── admin.js
+└── images/
